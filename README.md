@@ -1,5 +1,25 @@
 # Mega Drive Bible (SGDK)
 
+## Português
+
+Projeto homebrew para Sega Mega Drive / Genesis que permite navegar e ler livros e capítulos da Bíblia diretamente no console.
+
+Resumo rápido:
+
+- ROM gerada com SGDK
+- interface para livros, capítulos e leitura
+- inclui screenshots e estrutura de projeto simples
+
+## English
+
+Homebrew Sega Mega Drive / Genesis project that lets you browse and read Bible books and chapters directly on the console.
+
+Quick summary:
+
+- ROM built with SGDK
+- includes book, chapter, and reading screens
+- ships with screenshots and a straightforward project structure
+
 A Sega Mega Drive / Genesis homebrew project that lets you browse and read Bible books and chapters directly on the console.
 
 ## Features
