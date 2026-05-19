@@ -1,5 +1,17 @@
 # Mega Drive Bible (SGDK)
 
+## Screenshots / Capturas de Tela
+
+| Splash screen / Tela inicial | Book selection / Seleção de livro |
+| --- | --- |
+| <img src="screenshots/screenshot-01.png" alt="King James Bible splash screen" width="360"> | <img src="screenshots/screenshot-02.png" alt="Scrollable book selection screen" width="360"> |
+| Tela inicial da King James Bible Complete Edition. | Lista rolável para selecionar o livro da Bíblia. |
+
+| Chapter selection / Seleção de capítulo | Reading mode / Modo de leitura |
+| --- | --- |
+| <img src="screenshots/screenshot-03.png" alt="Chapter selection grid for Luke" width="360"> | <img src="screenshots/screenshot-04.png" alt="Reading mode showing Luke 11" width="360"> |
+| Grade de capítulos do livro selecionado. | Modo de leitura com texto quebrado em linhas e rolagem vertical. |
+
 ## English
 
 Homebrew Sega Mega Drive / Genesis project that lets you browse and read Bible books and chapters directly on the console.
